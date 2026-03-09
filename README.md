@@ -157,7 +157,7 @@ Performance summary:
 | Metric | Value |
 |------|------|
 | Average monthly return | ~0.9% |
-| Annualized Sharpe Ratio | ~0.75 |
+| Annualized Sharpe Ratio | ~1.1 |
 
 Sharpe ratio calculation:
 
@@ -228,6 +228,8 @@ option-smirk-equity-return-prediction
 │   Why Do Option Prices Predict Stock Returns.pdf
 │
 ├── Capstone_Presentation.pdf
+│
+├── Project_and_Presentation_Report.pdf
 │
 └── README.md
 ```
