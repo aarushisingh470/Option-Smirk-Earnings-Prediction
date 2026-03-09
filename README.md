@@ -227,8 +227,7 @@ option-smirk-equity-return-prediction
 │   Option Characteristics as Cross-Sectional Predictors.pdf
 │   Why Do Option Prices Predict Stock Returns.pdf
 │
-├── presentation
-│   Capstone_Presentation.pptx
+├── Capstone_Presentation.pdf
 │
 └── README.md
 ```
