@@ -157,7 +157,7 @@ Performance summary:
 | Metric | Value |
 |------|------|
 | Average monthly return | ~0.9% |
-| Annualized Sharpe Ratio | ~1.1 |
+| Annualized Sharpe Ratio | ~1.35 |
 
 Sharpe ratio calculation:
 
